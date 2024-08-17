@@ -43,9 +43,7 @@ function Navbar() {
               <Button color="inherit" onClick={logout}>Logout</Button>
             </>
           ) : (
-            <>
-              <Button color="inherit" component={Link} to="/auth">Sign In</Button>
-            </>
+            <Button color="inherit" component={Link} to="/auth">Sign In</Button>
           )}
         </div>
         <div className="mobile-menu">
@@ -74,9 +72,7 @@ function Navbar() {
                 <MenuItem onClick={logout}>Logout</MenuItem>
               </>
             ) : (
-              <>
-                <MenuItem onClick={handleMenuClose} component={Link} to="/auth">Sign In</MenuItem>
-              </>
+              <MenuItem onClick={handleMenuClose} component={Link} to="/auth">Sign In</MenuItem>
             )}
           </Menu>
         </div>
