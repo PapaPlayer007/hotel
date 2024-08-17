@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Deluxe Room",
+    "price": 120,
+    "imageUrl": "https://th.bing.com/th?id=OIP._sBzQT9vYXNzNYTcrld_RAHaFb&w=291&h=214&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "description": "A luxurious room with a king-sized bed, ensuite bathroom, and a beautiful view."
+  },
+  {
+    "id": 2,
+    "name": "Standard Room",
+    "price": 80,
+    "imageUrl": "https://th.bing.com/th?id=OIP.YlF5RjQbKdSe-jPvbJuo7QHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "description": "A comfortable room with a queen-sized bed and all the basic amenities."
+  },
+  {
+    "id": 3,
+    "name": "Suite",
+    "price": 200,
+    "imageUrl": "https://th.bing.com/th?id=OIP.EHkOkOQcMloWfrd2qDWn9wHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "description": "An elegant suite with a separate living area, king-sized bed, and premium amenities."
+  },
+  {
+    "id": 4,
+    "name": "Family Room",
+    "price": 150,
+    "imageUrl": "https://th.bing.com/th/id/OIP.VtznmGkOLm4auHKtLa-HUQHaFa?w=209&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "description": "A spacious room with two queen-sized beds, perfect for families."
+  },
+  {
+    "id": 5,
+    "name": "Single Room",
+    "price": 60,
+    "imageUrl": "https://th.bing.com/th/id/OIP.TWrb2yD1hyKqGoVVLNxaEAAAAA?w=271&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "description": "A cozy room with a single bed, ideal for solo travelers."
+  },
+  {
+    "id": 6,
+    "name": "Twin Room",
+    "price": 90,
+    "imageUrl": "https://th.bing.com/th/id/OIP.ABqXFuAsE0hP1jEjf1dGBAHaFj?w=220&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "description": "A room with two single beds, perfect for friends or colleagues."
+  },
+  {
+    "id": 7,
+    "name": "Executive Room",
+    "price": 180,
+    "imageUrl": "https://th.bing.com/th/id/OIP.6XePwJFqZbnw4uChkRtZdwHaE8?w=270&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "description": "A premium room with a king-sized bed, work desk, and executive amenities."
+  },
+  {
+    "id": 8,
+    "name": "Presidential Suite",
+    "price": 300,
+    "imageUrl": "https://th.bing.com/th/id/OIP.Svspg8gvuj5_2BkwWuE30AHaEL?w=308&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "description": "The most luxurious suite with a separate living area, dining area, and premium amenities."
+  }
+]

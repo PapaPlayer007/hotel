@@ -1,0 +1,124 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "Fortnite",
+            "description": "A popular battle royale game where players fight to be the last one standing.",
+            "image": "https://th.bing.com/th?id=OIP.krj2fOSKaY68lqVGIkw2DgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 2,
+            "name": "Minecraft",
+            "description": "A sandbox game where players can build and explore their own worlds.",
+            "image": "https://th.bing.com/th?id=OIP.MBm7UYm9qS8hJJ9uJtGSpgAAAA&w=250&h=250&c=8&rs=1&qlt=30&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 3,
+            "name": "League of Legends",
+            "description": "A multiplayer online battle arena game where players compete in teams.",
+            "image": "https://th.bing.com/th?id=OIP.gBLt9M-XCzC9KR94VJ2ZwAHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 4,
+            "name": "Counter-Strike: Global Offensive",
+            "description": "A first-person shooter game where teams of terrorists and counter-terrorists compete.",
+            "image": "https://th.bing.com/th?id=OIP.d7B9YjQlK8e9sxpVsIZ1egHaFO&w=297&h=210&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 5,
+            "name": "Among Us",
+            "description": "A multiplayer game where players work together to complete tasks while impostors try to sabotage them.",
+            "image": "https://th.bing.com/th?id=OIP.dWs93LWxi9eDzNLy3jIYAAHaJ4&w=216&h=288&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 6,
+            "name": "Roblox",
+            "description": "A platform where players can create and play games created by other users.",
+            "image": "https://th.bing.com/th?id=OIP.6D1a2KAoJiTbm5Qdo5VzVwHaD4&w=345&h=181&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 7,
+            "name": "Rocket League",
+            "description": "A game where players play soccer with rocket-powered cars.",
+            "image": "https://th.bing.com/th?id=OIP.FDQAF1iQD1E8qwyIUSF0SgHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 8,
+            "name": "Animal Crossing: New Horizons",
+            "description": "A life simulation game where players can build and manage their own island.",
+            "image": "https://th.bing.com/th?id=OIP.spVW02iyEiG3I-mg2owF3gHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 9,
+            "name": "Super Mario Odyssey",
+            "description": "A platform game where Mario travels across various worlds to rescue Princess Peach.",
+            "image": "https://th.bing.com/th?id=OIP.y2uX4KVXPqpwNQbAZzZUkwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 10,
+            "name": "Splatoon 3",
+            "description": "A third-person shooter game where players use ink to cover territory and defeat opponents.",
+            "image": "https://th.bing.com/th/id/OIP.GzoQeRC1Y_HpH9FiOhkCBAHaEK?w=277&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        },
+        {
+            "id": 11,
+            "name": "Mario Kart 8 Deluxe",
+            "description": "A racing game where players race against each other using characters from the Mario series.",
+            "image": "https://th.bing.com/th?id=OIP.4ODezfHYzcfxyaWi0V7FWgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 12,
+            "name": "Pokemon Sword/Shield",
+            "description": "A role-playing game where players catch and train Pokemon to become the champion.",
+            "image": "https://th.bing.com/th?id=OIP.mpJZzcle1bY2Nhe8OotE6gHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 13,
+            "name": "The Legend of Zelda: Link's Awakening",
+            "description": "An action-adventure game where players control Link to save the island of Koholint.",
+            "image": "https://th.bing.com/th?id=OIP.NC_5pI-jsssGBj5SfCEDVwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 14,
+            "name": "Minecraft Dungeons",
+            "description": "An action-adventure game set in the Minecraft universe where players explore dungeons and fight monsters.",
+            "image": "https://th.bing.com/th?id=OIP.6_5yUs2oDbSIYs_tLjIFaQHaNK&w=187&h=333&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 15,
+            "name": "Plants vs. Zombies: Battle for Neighborville",
+            "description": "A third-person shooter game where players control plants or zombies in various game modes.",
+            "image": "https://th.bing.com/th?id=OIP.EE3zRQDOIPpvZvV6W6GxcgHaET&w=327&h=190&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 16,
+            "name": "Cuphead",
+            "description": "A run-and-gun game with a unique 1930s cartoon art style.",
+            "image": "https://th.bing.com/th/id/OIP.g6faP1y_vXVlinPDf6PJVAHaHu?w=150&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        },
+        {
+            "id": 17,
+            "name": "Overwatch 2",
+            "description": "A team-based first-person shooter game where players choose from a roster of heroes with unique abilities.",
+            "image": "https://th.bing.com/th/id/OIP.lrn5C0-K2kS1GWCGiBqGegHaDz?w=339&h=179&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        },
+        {
+            "id": 18,
+            "name": "Five Nights at Freddy's: Help Wanted",
+            "description": "A virtual reality game where players must survive the night in a haunted pizzeria.",
+            "image": "https://th.bing.com/th/id/OIP._phWMjKAf-Ep543j0YlPpAHaHa?w=149&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        },
+        {
+            "id": 19,
+            "name": "Disney Dreamlight Valley",
+            "description": "A life simulation game where players can interact with Disney characters and build their own village.",
+            "image": "https://th.bing.com/th?id=OIP.wVKD9GKQz6Xm-edtVu5-oAHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+            "id": 20,
+            "name": "Lego Star Wars: The Skywalker Saga",
+            "description": "An action-adventure game where players can experience the Star Wars saga in Lego form.",
+            "image": "https://th.bing.com/th?id=OIP.jyXGMnKY59GY8pofuwyjzQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        }
+    ]
+}
