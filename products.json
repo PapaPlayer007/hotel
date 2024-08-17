@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "price": 8.99,
+    "imageUrl": "https://th.bing.com/th?id=OIP.k6KHis9HnTlNj0tLYl051AHaJ4&w=216&h=288&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Pizza",
+    "allergies": ["Dairy", "Gluten"]
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni Pizza",
+    "price": 9.99,
+    "imageUrl": "https://www.bing.com/th?id=OIP.EQd-T0B2jyUkL_hHcQUfgAHaE8&w=146&h=120&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Pizza",
+    "allergies": ["Dairy", "Gluten"]
+  },
+  {
+    "id": 3,
+    "name": "Caesar Salad",
+    "price": 7.99,
+    "imageUrl": "https://www.bing.com/th?id=OIP.V3PBpJ34-OZB9aEeGM9cWQHaLH&w=146&h=219&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Salad",
+    "allergies": ["Egg"]
+  },
+  {
+    "id": 4,
+    "name": "Greek Salad",
+    "price": 6.99,
+    "imageUrl": "https://www.bing.com/th?id=OIP.asFVgG-WmY4KYrALwUvt0wHaHa&w=146&h=146&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Salad",
+    "allergies": ["Dairy"]
+  },
+  {
+    "id": 5,
+    "name": "Spaghetti Carbonara",
+    "price": 12.99,
+    "imageUrl": "https://th.bing.com/th?id=OIP.dchqjONJhrMllqIkMeIZbwHaLH&w=204&h=306&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Pasta",
+    "allergies": ["Dairy", "Gluten", "Egg"]
+  },
+  {
+    "id": 6,
+    "name": "Lasagna",
+    "price": 13.99,
+    "imageUrl": "https://www.bing.com/th?id=OIP.qROVGWoLpk_mD3Qzhw8AdQHaLH&w=146&h=219&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Pasta",
+    "allergies": ["Dairy", "Gluten"]
+  },
+  {
+    "id": 7,
+    "name": "Grilled Chicken Sandwich",
+    "price": 9.99,
+    "imageUrl": "https://th.bing.com/th?id=OIP.Pgv_Gk2iKz4BCZHXhrcSEgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Sandwich",
+    "allergies": ["Gluten"]
+  },
+  {
+    "id": 8,
+    "name": "Veggie Burger",
+    "price": 8.99,
+    "imageUrl": "https://www.bing.com/th?id=OIP.b12Vgm9PXpoLhlmHWXF5swHaE8&w=146&h=120&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Burger",
+    "allergies": ["Gluten", "Soy"]
+  },
+  {
+    "id": 9,
+    "name": "Cheeseburger",
+    "price": 10.99,
+    "imageUrl": "https://th.bing.com/th?id=OIP.RcFkqUO-4dAHDi0DDLQY1AHaHc&w=249&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Burger",
+    "allergies": ["Dairy", "Gluten"]
+  },
+  {
+    "id": 10,
+    "name": "Chocolate Cake",
+    "price": 5.99,
+    "imageUrl": "https://th.bing.com/th?id=OIP.C1nevB__9O-Cf4hW_vOk0gHaLH&w=204&h=306&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Dessert",
+    "allergies": ["Dairy", "Gluten", "Egg"]
+  },
+  {
+    "id": 11,
+    "name": "Apple Pie",
+    "price": 4.99,
+    "imageUrl": "https://www.bing.com/th?id=OIP.ZAifnQMYy0_Tx1RQgDlRMwHaLG&w=146&h=219&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Dessert",
+    "allergies": ["Gluten"]
+  },
+  {
+    "id": 12,
+    "name": "Ice Cream Sundae",
+    "price": 6.99,
+    "imageUrl": "https://th.bing.com/th?id=OIP.O5cpFjsZ4K3HyxS0BGBFNwHaLH&w=204&h=306&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+    "category": "Dessert",
+    "allergies": ["Dairy"]
+  }
+]
